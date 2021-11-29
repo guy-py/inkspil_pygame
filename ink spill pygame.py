@@ -19,7 +19,7 @@ boxes_sqrt=7
 
 pygame.init()
 win = pygame.display.set_mode((boxes_sqrt*100,boxes_sqrt*100))
-pygame.display.set_caption("Moving rectangle")
+pygame.display.set_caption("inkspill")
 
 'functions'
     
